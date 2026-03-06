@@ -47,6 +47,7 @@ cat file2.txt file1.txt</code></pre>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>file1:aaa
 file1:bbbfile2:ccc
 file2:ddd
+(prompt)
 
 file2:ccc
 file2:ddd
@@ -214,6 +215,7 @@ cat file2.txt file1.txt</code></pre>
 <pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>file1:aaa
 file1:bbbfile2:ccc
 file2:ddd
+(prompt)
 
 file2:ccc
 file2:ddd
